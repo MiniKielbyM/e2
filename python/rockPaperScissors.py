@@ -1,0 +1,1 @@
+print("Rock Paper Scissors Rules\n\nPlayers decide on different hand signals to represent rock, paper, and scissors.\n\nPlayers make a throw at the same time.\n\nThe hand signals that are thrown by the players determine the winner:\n\tRock dulls Scissors (Rock wins).\n\n\tScissors cuts Paper (Scissors wins).\n\n\tPaper covers Rock (Paper wins).")
